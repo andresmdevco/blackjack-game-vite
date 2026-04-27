@@ -2,11 +2,11 @@
 
 Juego de Blackjack clásico desarrollado con JavaScript y Vite. Permite jugar contra la computadora con las reglas estándar del juego.
 
-## Demo 
+## 🚀 Demo 
 
-🔗 [https://blackjack-game-andresmdevco.netlify.app/](https://blackjack-game-andresmdevco.netlify.app/)
+👉 [Jugar Ahora](https://blackjack-game-andresmdevco.netlify.app/)
 
-## Tecnologías
+## 🛠 Tecnologías
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
@@ -28,9 +28,27 @@ Juego de Blackjack clásico desarrollado con JavaScript y Vite. Permite jugar co
 - **Figuras (J, Q, K):** valen 10 puntos.
 - **As (A):** vale siempre 11 puntos.
 
-## Ejecutar en local
-Pasos para ejecutar proyecto:
+## ⚙️ Cómo ejecutar el proyecto
 
-1. Clonar repositorio
-2. Ejecutar ```npm install``` para reconstruir los módulos de node
-3. Correr el devServer ```npm run dev```
+### 1. Clonar el repositorio
+
+```bash
+git clone https://github.com/andresmdevco/blackjack-game-vite.git
+cd blackjack-game-vite
+```
+
+### 2. Instalar dependencias
+
+```bash
+npm install
+```
+
+### 3. Iniciar el servidor de desarrollo
+
+```bash
+npm run dev
+```
+
+### 4. Abrir la aplicación
+
+Abre la URL de **localhost** que aparece en la terminal.
