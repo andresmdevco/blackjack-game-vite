@@ -4,7 +4,10 @@ Juego de Blackjack clásico desarrollado con JavaScript y Vite. Permite jugar co
 
 ## 🚀 Demo 
 
-👉 [Jugar Ahora](https://andresmdevco.github.io/blackjack-game-vite/)
+👉 **Jugar ahora:**
+
+- [GitHub Pages](https://andresmdevco.github.io/blackjack-game-vite/)
+- [Netlify](https://blackjack-game-andresmdevco.netlify.app/)
 
 ### 📸 Capturas del juego
 
