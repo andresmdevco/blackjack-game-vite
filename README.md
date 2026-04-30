@@ -12,9 +12,9 @@ Juego de Blackjack clásico desarrollado con JavaScript y Vite. Permite jugar co
 ### 📸 Capturas del juego
 
 <p align="center">
-  <img src="assets/images/game-in-progress.png" width="300"/>
-  <img src="assets/images/player-win.png" width="300"/>
-  <img src="assets/images/computer-win.png" width="300"/>
+  <img src="assets/images/game-in-progress.png" width="250"/>
+  <img src="assets/images/player-win.png" width="250"/>
+  <img src="assets/images/computer-win.png" width="250"/>
 </p>
 
 ## 🛠 Tecnologías
